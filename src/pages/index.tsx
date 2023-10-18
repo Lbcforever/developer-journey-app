@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Developer Journey App</title>
+        <title>Home | This is it </title>
       </Head>
       <main>
         {status === "authenticated" ? (
